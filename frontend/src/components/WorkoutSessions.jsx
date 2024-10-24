@@ -6,44 +6,38 @@ const WorkoutSessions = () => {
       <div className="wrapper">
         <h1>TOP WORKOUT SESSION</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur,
-          quisquam. Eaque alias, blanditiis quidem maiores illo unde ipsam!
+          Kickstart your fitness journey with our top-rated workout session. Whether you're a beginner or a fitness enthusiast, this session is designed to challenge and motivate you to achieve your goals.
         </p>
         <img src="/img5.jpg" alt="workout" />
       </div>
       <div className="wrapper">
         <h1>FEATURED BOOTCAMPS</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti
-          impedit quasi sunt amet rerum accusamus odio eveniet unde?
+          Our featured bootcamps are crafted to push you to the next level. With high-energy workouts and experienced trainers, you're guaranteed to break a sweat and see results.
         </p>
         <div className="bootcamps">
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Strength & Conditioning Bootcamp</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Build muscle and burn fat in our Strength & Conditioning Bootcamp. Our expert trainers will guide you through a challenging, yet rewarding, experience.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>HIIT Bootcamp</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Take your fitness to the next level with high-intensity interval training. This bootcamp is perfect for those looking to burn calories and increase endurance.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Yoga & Flexibility Bootcamp</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Relax and rejuvenate in our Yoga Bootcamp, focusing on flexibility, balance, and mindfulness. Perfect for improving mobility and mental clarity.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Cardio Blast Bootcamp</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Elevate your heart rate and torch calories in our Cardio Blast Bootcamp. Fun, dynamic, and designed to make you feel energized.
             </p>
           </div>
         </div>
@@ -53,3 +47,4 @@ const WorkoutSessions = () => {
 };
 
 export default WorkoutSessions;
+ 
